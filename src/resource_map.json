@@ -1,0 +1,12 @@
+{
+	"friendlyVersion":"Version",
+	"versionDefName":"APP_RESOURCES",
+	"media": [
+	{
+		"type":"png",
+		"defName":"Hackers",
+		"file": "images/hackers_icon.png"
+	}
+
+	]
+}

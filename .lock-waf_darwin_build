@@ -1,0 +1,8 @@
+argv = ['/Users/Dylan/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'ADF7B7CE-C984-4E3E-B311-20387E16D474', 'SSH_AUTH_SOCK': '/tmp/launch-dD1wjd/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'Dylan', 'USER': 'Dylan', 'HOME': '/Users/Dylan', 'PATH': '/Users/Dylan/pebble-dev/PebbleSDK-2.0-BETA2/arm-cs-tools/bin:/Users/Dylan/pebble-dev/PebbleSDK-2.0-BETA2/bin:/Users/Dylan/pebble-dev/PebbleSDK-2.0-BETA2/bin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/local/bin:/usr/local/git/bin', 'TMPDIR': '/var/folders/2c/1xd7j_293lq540jy20jzl8n00000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'fr_FR.UTF-8', 'TERM': 'ansi', 'Apple_PubSub_Socket_Render': '/tmp/launch-s6pUEB/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'SECURITYSESSIONID': '186a4', 'CLICOLOR': '1', '__CF_USER_TEXT_ENCODING': '0x1F5:0:91\n', 'PWD': '/Users/Dylan/pebble-dev/scratch', '_': '/Users/Dylan/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', '__CHECKFIX1436934': '1', 'LSCOLORS': 'Exfxcxdxbxegedabagacad'}
+files = ['/Users/Dylan/pebble-dev/scratch/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Dylan/pebble-dev/scratch/build'
+run_dir = '/Users/Dylan/pebble-dev/scratch'
+top_dir = '/Users/Dylan/pebble-dev/scratch'

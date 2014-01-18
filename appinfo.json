@@ -1,0 +1,22 @@
+{
+  "uuid": "339ce9a7-1da6-40f3-bb6a-fdcde1e64d1d",
+  "shortName": "scratch",
+  "longName": "scratch",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "HACKERS",
+        "file": "images/hackers_icon.png"
+      }
+    ]
+  }
+}
